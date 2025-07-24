@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "filters": [
+    {
+      "runWith": "nodejs",
+      "script": "./manifest_cleaner.ts",
+      "name": "Cleaning manifest.json files"
+    }
+  ]
+}
